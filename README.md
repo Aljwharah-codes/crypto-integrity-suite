@@ -1,7 +1,7 @@
 # Crypto & Integrity Cipher Suite 🔐
 
 ## Description
-A Python cybersecurity toolkit for encryption, hashing, and data integrity verification.
+A Python toolkit for encryption, hashing, and data integrity verification.
 
 ## Features
 - Caesar Cipher Encryption
@@ -9,17 +9,19 @@ A Python cybersecurity toolkit for encryption, hashing, and data integrity verif
 - SHA-256 Hash Generator
 - MD5 Hash Generator
 - Hash Comparison
-- Data Integrity Verification
 
 ## Technologies Used
 - Python
 - hashlib
 
-## Project Goals
-This project demonstrates fundamental cybersecurity concepts including confidentiality through encryption and integrity through cryptographic hashing.
+## Version
+v1.0
 
 ## Future Improvements
-- File hashing support
 - Vigenère Cipher
+- File Hashing
 - AES Encryption
 - Graphical User Interface (GUI)
+
+## Author
+Aljawharah Bandar
