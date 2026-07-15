@@ -24,4 +24,4 @@ v1.0
 - Graphical User Interface (GUI)
 
 ## Author
-Aljawharah Bandar
+Aljawharah Alfares
